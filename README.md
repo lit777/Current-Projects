@@ -5,7 +5,7 @@ In this project, we are developing an approach to estimate propensity scores for
 
 ## Functional Outcome in Causal Inference
 
-In this project, we try to . (More to come)
+In this project, we are developing a new framework and model to estimate the outcome that can vary with time, space or any variable. We will use functional outcome models which involve several techniques in multivarite data analysis (e.g., FPCA, Splines, etc). (More to come)
 * Please contact <a href="mailto:chanmink@bu.edu">me</a> if you are interested in this project.
 
 ## Semiparametric latent models for heterogeneous causal effects (with different types of data)
