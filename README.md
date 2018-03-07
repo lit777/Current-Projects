@@ -10,7 +10,7 @@ In this project, we try to . (More to come)
 
 ## Semiparametric latent models for heterogeneous causal effects (with different types of data)
 
-We will submit this as an R21 grant proposal. Specific Aims are available upon request.
+We will submit this as an R21/R01 grant proposal. Specific Aims are available upon request.
 
 ## TRAP research
 
