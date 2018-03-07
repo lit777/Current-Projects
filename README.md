@@ -31,7 +31,7 @@ I recently joined this project and am developing a Bayesian method to model rate
 
 ## Collaboration with the UBC Education Department and Statisticis Department
 
-I've been collaborating with colleagues at UBC on multiple projects which involve rigorous and complex statistical modelling. Especially, we are interested in applying novel statistical methods into educational data.
+I've been collaborating with colleagues at University of British Columbia (Canada) on multiple projects which involve rigorous and complex statistical modelling. Especially, we are interested in applying novel statistical methods into educational data.
 
 
 
