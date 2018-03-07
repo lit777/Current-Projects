@@ -8,6 +8,16 @@ In this project, we are developing an approach to estimate propensity scores for
 In this project, we try to . (More to come)
 * Please contact <a href="mailto:chanmink@bu.edu">me</a> if you are interested in this project.
 
+## Kerrie's Project
+
+In this project, we try to . (More to come)
+* Please contact <a href="mailto:chanmink@bu.edu">me</a> if you are interested in this project.
+
+## Yan's projects
+
+In this project, we try to . (More to come)
+* Please contact <a href="mailto:chanmink@bu.edu">me</a> if you are interested in this project.
+
 
 
 
