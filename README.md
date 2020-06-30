@@ -8,9 +8,10 @@ In this project, we are developing an approach to estimate propensity scores for
 In this project, we are developing a new framework and model to estimate the outcome that can vary with time, space or any variable. We will use functional outcome models which involve several techniques in multivarite data analysis (e.g., FPCA, Splines, etc). (More to come)
 * Please contact <a href="mailto:chanmink@bu.edu">me</a> if you are interested in this project.
 
-## Semiparametric latent models for heterogeneous causal effects (with different types of data)
+## Bayesian nonparametrics for heterogeneous causal effects (with different types of data)
 
-We will submit this as an R21/R01 grant proposal. Specific Aims are available upon request.
+This project is sponsored by NRF (the National Research Foundation of Korea): Jun. 2020 - Feb. 2023.
+* Please contact <a href="mailto:chanmink@bu.edu">me</a> if you are interested in this project.
 
 ## TRAP research
 
